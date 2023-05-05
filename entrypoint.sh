@@ -12,22 +12,22 @@ fi
 echo ${Vless_Path}
 
 if [[ -z "${Vless_UUID}" ]]; then
-  Vless_UUID="5c301bb8-6c77-41a0-a606-4ba11bbab084"
+  Vless_UUID="3528b502-798a-4b9e-8c4e-679999a01988"
 fi
 echo ${Vless_UUID}
 
 if [[ -z "${Vmess_Path}" ]]; then
-  Vmess_Path="/s244"
+  Vmess_Path="/m264"
 fi
 echo ${Vmess_Path}
 
 if [[ -z "${Vmess_UUID}" ]]; then
-  Vmess_UUID="5c301bb8-6c77-41a0-a606-4ba11bbab084"
+  Vmess_UUID="3528b502-798a-4b9e-8c4e-679999a01988"
 fi
 echo ${Vmess_UUID}
 
 if [[ -z "${Share_Path}" ]]; then
-  Share_Path="/share233"
+  Share_Path="/jhh233"
 fi
 echo ${Share_Path}
 
